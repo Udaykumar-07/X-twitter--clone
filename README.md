@@ -1,7 +1,7 @@
 # X-twitter--clone
 X clone using tailwind css
 
-This will render as:
+Link for the app:
 
 ```bash
-https://your-link-here.com
+https://udaykumar-07.github.io/X-twitter--clone/
